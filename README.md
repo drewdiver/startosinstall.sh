@@ -1,6 +1,5 @@
 # startosinstall.sh
 
-# startosinstall.sh
 I needed a quick way to re-install macOS High Sierra on a machine (and possibly
 with a package or two). After chatting with [Armin](https://scriptingosx.com) on
 the Mac Admins Slack this idea was born. A lot of  credit to Greg Neagle as this is basically a re-working of [Bootstrappr](https://github.com/munki/bootstrappr) to utilize
